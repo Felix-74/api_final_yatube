@@ -1,8 +1,8 @@
-# API для Yatube
+# Финальный проект API для Yatube
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Django](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Django](https://img.shields.io/badge/drf-%23092E20.svg?style=for-the-badge&labelColor=blue&logo=django&logoColor=white)
 ### Описание
-API для социальной сети Yatube с пагинацией.
+Данный проетк показывает возможности примениения API для работы социальной сети Yatube с пагинацией.
 Можно получать список всех публикаций, комментариев, списка доступных сообществ.
 Есть возможность отправлять запросы к API, создавать посты, добавлять комментарии и подписываться на авторов
 ### Установка
